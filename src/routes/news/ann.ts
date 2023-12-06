@@ -9,7 +9,7 @@ const routes = async (fastify: FastifyInstance, options: RegisterOptions) => {
       intro:
         "Welcome to the Anime News Network provider: check out the provider's website @ https://www.animenewsnetwork.com/",
       routes: ['/recent-feeds', '/info'],
-      documentation: 'https://docs.consumet.org/#tag/animenewsnetwork',
+      Telegram: 'https://t.me/yonecess',
     });
   });
 
